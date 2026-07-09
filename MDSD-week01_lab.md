@@ -1788,10 +1788,10 @@ Android SDK Version: _______________
 
 ### 3.2 Screenshot ของ Flutter App
 
-```
+
 <img width="387" height="742" alt="6" src="https://github.com/user-attachments/assets/11afc9b6-da23-43df-ad36-2842e1568665" />
 
-```
+
 
 **Widget Tree ที่วาด:**
 
