@@ -1837,9 +1837,8 @@ MaterialApp
 
 ### 3.5 Screenshot ของ AI Chat App
 
-```
-[แนบ Screenshot ของ Gemini AI Chat ที่ทำงานได้]
-```
+<img width="360" height="841" alt="image" src="https://github.com/user-attachments/assets/c04b1aea-9d1b-4acc-bda1-ff1e6b644aa3" />
+
 
 ---
 
