@@ -1789,7 +1789,7 @@ Android SDK Version: _______________
 ### 3.2 Screenshot ของ Flutter App
 
 
-<img width="387" height="742" alt="6" src="https://github.com/user-attachments/assets/11afc9b6-da23-43df-ad36-2842e1568665" />
+<img width="387" height="706" alt="8" src="https://github.com/user-attachments/assets/dbc61f25-c88c-4b08-92e1-4b250635091b" />
 
 
 
