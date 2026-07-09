@@ -1025,6 +1025,38 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ---
 
+```
+MyApp
+│
+└── MaterialApp
+    │
+    └── MyHomePage
+        │
+        └── Scaffold
+            │
+            ├── AppBar
+            │   │
+            │   └── Text
+            │       └── "Flutter Demo Home Page"
+            │
+            ├── Body
+            │   │
+            │   └── Center
+            │       │
+            │       └── Column
+            │           │
+            │           ├── Text
+            │           │   └── "You have pushed the button this many times:"
+            │           │
+            │           └── Text
+            │               └── _counter
+            │
+            └── FloatingActionButton
+                │
+                └── Icon
+                    └── Icons.add
+---
+
 ### ขั้นตอนที่ 4: รันแอปพลิเคชันครั้งแรก
 
 มี 2 วิธีในการรัน เลือกวิธีที่ถนัด:
