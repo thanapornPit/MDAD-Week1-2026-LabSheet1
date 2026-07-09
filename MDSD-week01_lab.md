@@ -1242,6 +1242,11 @@ class ProfilePage extends StatelessWidget {
 6. ลองกด **R** ใน Terminal เพื่อ Hot Restart
 
 > 🔍 **ข้อสังเกต:** Hot Reload vs Hot Restart ต่างกันอย่างไร? บันทึกการสังเกตลงในใบงาน
+>
+```
+Hot Reload เมื่อกด Ctrl + S UI เปลี่ยนทันทีโดยไม่ต้องรันแอปใหม่ และข้อมูลเดิมยังอยู่
+Hot Restart เมื่อกด R แอปเริ่มทำงานใหม่ทั้งหมด และข้อมูลถูกรีเซ็ต
+```
 
 ---
 
